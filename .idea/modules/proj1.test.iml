@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="proj1:test" external.linked.project.path="E:/lesson1/proj1" external.root.project.path="E:/lesson1/proj1" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_12">
+    <output-test url="file://E:/lesson1/proj1/out/test/classes" />
+    <exclude-output />
+    <content url="file://E:/lesson1/proj1/src/test">
+      <sourceFolder url="file://E:/lesson1/proj1/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="proj1.main" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.14.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.72" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="proj1.main" />
+</module>

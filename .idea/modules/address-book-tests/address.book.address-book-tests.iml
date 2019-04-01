@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":address-book-tests" external.linked.project.path="E:/lesson1/proj1/address-book-tests" external.root.project.path="E:/lesson1/proj1" external.system.id="GRADLE" external.system.module.group="address.book" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://E:/lesson1/proj1/address-book-tests">
+      <excludeFolder url="file://E:/lesson1/proj1/address-book-tests/.gradle" />
+      <excludeFolder url="file://E:/lesson1/proj1/address-book-tests/build" />
+      <excludeFolder url="file://E:/lesson1/proj1/address-book-tests/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
